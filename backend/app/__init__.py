@@ -1,0 +1,1 @@
+"""ProteinCraft backend application package."""

@@ -1,0 +1,38 @@
+# ProteinCraft backend — Python dependencies
+
+# Web framework
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+gunicorn==23.0.0
+
+# Settings
+pydantic-settings==2.6.1
+
+# Database
+sqlalchemy[asyncio]==2.0.36
+asyncpg==0.30.0
+alembic==1.14.0
+
+# HTTP client (async)
+httpx==0.28.0
+
+# ML / Embeddings
+torch==2.4.1
+transformers==4.47.0
+accelerate==1.2.0
+sentencepiece==0.2.0
+
+# Bioinformatics
+biopython==1.84
+
+# AI
+google-genai==1.5.0
+
+# Numerical
+numpy==1.26.4
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.24.0
+httpx==0.28.0
+pytest-cov==6.0.0
