@@ -3,7 +3,7 @@
 
 ProteinCraft is a production-grade full-stack platform that combines large language models for biology (ESM2) with multi-modal reasoning models (Gemini 2.5 Flash) to design, optimize, and rank protein sequences.
 
-![Architecture overview placeholder]
+
 
 ## Features
 - **ESM2 Mutagenesis**: Extracts hidden-state embeddings and performs masked-language model scoring to generate biophysically plausible variants.
